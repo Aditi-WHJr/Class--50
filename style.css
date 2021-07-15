@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(255, 5, 172);
+}
+/**{
+    border: solid
+}*/
+.header{
+    background-color: rgb(251, 255, 0);
+    display:flex;
+    justify-content:space-between;
+}
+.intro{
+    background-color: darkcyan;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly; 
+}
+.games{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: darkorange;
+}
+.socialmedia{
+    display: flex;
+    justify-content: flex-end;
+}
